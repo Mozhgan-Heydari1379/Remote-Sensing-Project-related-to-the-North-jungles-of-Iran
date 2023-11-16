@@ -1,0 +1,2 @@
+# Remote-Sensing-Project-related-to-the-North-jungles-of-Iran
+Contains preparing sub-images for all bands from main bands, displaying bands of TM sub-images separately and different ground covers like Dense Vegetation, computing and preparing NDVI, SAVI, MSAVI, and MSAVI2 maps for TM sensors of Landsat satellite, computing OIF for all combinations of it 3 bands for TM sensors of Landsat satellite.
